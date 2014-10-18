@@ -7,6 +7,15 @@
 
 /* Custom CSS*/
 
+
+.bg-custom{
+    background-color:#333745;
+}
+
+.text-primary{
+    color: #333745;
+}
+
 .circle {
   display: block;
   width: 200px;
